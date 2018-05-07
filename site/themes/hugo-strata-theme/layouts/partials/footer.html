@@ -25,6 +25,9 @@
 		{{ with .Site.Params.contact.email }}
 		<li><a href="{{ $.Site.BaseURL }}#contact-form" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 		{{ end }}
+		{{ with .Site.Params.sidebar.medium }}
+		<li><a href="//medium.com/@tyler.smith"><span class="label">Medium</span></a></li>
+		{{ end }}
 	</ul>
 
 	<ul class="copyright">
