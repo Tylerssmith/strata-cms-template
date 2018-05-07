@@ -1,10 +1,3 @@
-To start off, this will not be very beautiful, but stick with me and it will get better.
-
-I also have to give credit where credit is due.
-I started with the Strata Blog available at https://templates.netlify.com/.
-It is a Victor Hugo CMS Template, and the information for that is as follows:
-
-
 # Victor Hugo CMS Template
 <!-- Markdown snippet -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/strata-cms-template)
@@ -71,7 +64,7 @@ backend:
   name: github
   repo: owner/repo # Path to your Github repository
   branch: master # Branch to update (master by default)
-
+  
   ...
 ```
 When a user navigates to `/admin` she'll be prompted to login, and once authenticated
@@ -88,7 +81,7 @@ log in.
 
 ### Find out more and contribute
 
-Visit the [Netlify CMS](https://github.com/netlify/netlify-cms/) to find out more and contribute.
+Visit the [Netlify CMS](https://github.com/netlify/netlify-cms/) to find out more and contribute. 
 
 ## Basic Concepts
 

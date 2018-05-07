@@ -26,7 +26,7 @@ paginate = 10
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "IMG_1630.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**I'm Tyler**, a developer creating my own website."
+		bio = "**I'm Tyler**, a developer creating my website."
 		# The icons will be shown if you enter your username
 		twitter = "TylerPuddle"
 		github = "TylerSSmith"
@@ -35,7 +35,6 @@ paginate = 10
 		googleplus = ""
 		flickr = ""
 		linkedin = ""
-		medium = "Tyler.Smith"
 
 		copyright = [
 			"&copy; Tyler Smith",
@@ -46,9 +45,8 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "A little bit about me"
-		content = "I'm a Computer Science student at Southern Virginia University.
-		I'm also a husband, father, and tech enthusiast. "
+		title = "This is my About Section."
+		content = "This is the stuff that makes up my about section, I think."
 
 
 	[params.portfolio]
@@ -69,29 +67,29 @@ paginate = 10
 			title = "Second recent Work."
 			description = "Description of second work."
 
-		# [[params.portfolio.gallery]]
-		# 	image = "fulls/03.jpg"
-		# 	thumb = "thumbs/03.jpg"
-		# 	title = "Lorem ipsum dolor."
-		# 	description = "Lorem ipsum dolor sit amet."
-		#
-		# [[params.portfolio.gallery]]
-		# 	image = "fulls/04.jpg"
-		# 	thumb = "thumbs/04.jpg"
-		# 	title = "Lorem ipsum dolor."
-		# 	description = "Lorem ipsum dolor sit amet."
-		#
-		# [[params.portfolio.gallery]]
-		# 	image = "fulls/05.jpg"
-		# 	thumb = "thumbs/05.jpg"
-		# 	title = "Lorem ipsum dolor."
-		# 	description = "Lorem ipsum dolor sit amet."
-		#
-		# [[params.portfolio.gallery]]
-		# 	image = "fulls/06.jpg"
-		# 	thumb = "thumbs/06.jpg"
-		# 	title = "Lorem ipsum dolor."
-		# 	description = "Lorem ipsum dolor sit amet."
+		[[params.portfolio.gallery]]
+			image = "fulls/03.jpg"
+			thumb = "thumbs/03.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/04.jpg"
+			thumb = "thumbs/04.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/05.jpg"
+			thumb = "thumbs/05.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
 
 	[params.recentposts]
 		hide  = false
@@ -100,7 +98,7 @@ paginate = 10
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "Send me a message or contact me by phone or email."
+		content = "This has something to do with my contact info?."
 
 		address = [
 			"Buena Vista, VA",
