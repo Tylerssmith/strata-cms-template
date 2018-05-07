@@ -35,7 +35,7 @@ paginate = 10
 		googleplus = ""
 		flickr = ""
 		linkedin = ""
-		medium = "Tyler.Smith"
+		# medium = "Tyler.Smith"
 
 		copyright = [
 			"&copy; Tyler Smith",
@@ -69,29 +69,29 @@ paginate = 10
 			title = "Second recent Work."
 			description = "Description of second work."
 
-		# [[params.portfolio.gallery]]
-		# 	image = "fulls/03.jpg"
-		# 	thumb = "thumbs/03.jpg"
-		# 	title = "Lorem ipsum dolor."
-		# 	description = "Lorem ipsum dolor sit amet."
-		#
-		# [[params.portfolio.gallery]]
-		# 	image = "fulls/04.jpg"
-		# 	thumb = "thumbs/04.jpg"
-		# 	title = "Lorem ipsum dolor."
-		# 	description = "Lorem ipsum dolor sit amet."
-		#
-		# [[params.portfolio.gallery]]
-		# 	image = "fulls/05.jpg"
-		# 	thumb = "thumbs/05.jpg"
-		# 	title = "Lorem ipsum dolor."
-		# 	description = "Lorem ipsum dolor sit amet."
-		#
-		# [[params.portfolio.gallery]]
-		# 	image = "fulls/06.jpg"
-		# 	thumb = "thumbs/06.jpg"
-		# 	title = "Lorem ipsum dolor."
-		# 	description = "Lorem ipsum dolor sit amet."
+		[[params.portfolio.gallery]]
+			image = "fulls/03.jpg"
+			thumb = "thumbs/03.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/04.jpg"
+			thumb = "thumbs/04.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/05.jpg"
+			thumb = "thumbs/05.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
 
 	[params.recentposts]
 		hide  = false
