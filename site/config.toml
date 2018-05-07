@@ -15,7 +15,7 @@ paginate = 10
 	description = "Tyler S Smith's personal website."
 
 	# Format dates with Go's time formatting
-	date_format = "01-02-2018"
+	date_format = "%B %e, %Y"
 
 	# Add custom assets with their paths relative to the static folder
 	custom_js   = []
