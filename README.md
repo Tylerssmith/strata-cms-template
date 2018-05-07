@@ -1,3 +1,6 @@
+# Victor Hugo CMS Template
+<!-- Markdown snippet -->
+
 To start off, this will not be very beautiful, but stick with me and it will get better.
 
 I also have to give credit where credit is due.
@@ -5,8 +8,7 @@ I started with the Strata Blog available at https://templates.netlify.com/.
 It is a Victor Hugo CMS Template, and the information for that is as follows:
 
 
-# Victor Hugo CMS Template
-<!-- Markdown snippet -->
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/strata-cms-template)
 
 ![mrtable image](https://s3-us-west-1.amazonaws.com/publis-brian-images/mrtable.png)
