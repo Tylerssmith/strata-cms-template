@@ -11,8 +11,8 @@ paginate = 10
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Your name"
-	description = "Describe your website"
+	name = "Tyler S Smith"
+	description = "Tyler S Smith's personal website."
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -24,12 +24,12 @@ paginate = 10
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
-		avatar = "avatar.jpg"
+		avatar = "IMG_1630.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**I'm Strata**, a super simple<br> responsive site template freebie<br> crafted by [HTML5 UP](//html5up.net)."
+		bio = "**I'm Tyler**, a developer trying to create my personal website."
 		# The icons will be shown if you enter your username
-		twitter = "spf13"
-		github = "spf13"
+		twitter = "TylerPuddle"
+		github = "TylerSSmith"
 		dribbble = ""
 		facebook = ""
 		googleplus = ""
@@ -37,7 +37,7 @@ paginate = 10
 		linkedin = ""
 
 		copyright = [
-			"&copy; John Doe",
+			"&copy; Tyler Smith",
 			"Design: [HTML5 UP](//html5up.net)",
 			"Demo Images: [Unsplash](//unsplash.com/)"
 		]
@@ -45,8 +45,8 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+		title = "This is my About Section."
+		content = "This is the stuff that makes up my about section, I think."
 
 
 	[params.portfolio]
@@ -58,14 +58,14 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "My First recent work."
+			description = "Description of first work."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Second recent Work."
+			description = "Description of second work."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
@@ -98,27 +98,15 @@ paginate = 10
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		content = "This has something to do with my contact info?."
 
 		address = [
 			"1234 Somewhere Rd.",
 			"Nashville, TN 00000",
 			"United States"
 		]
-		phone = "000-000-0000"
-
-		# Since this template is static, the contact form uses www.formspree.io as a
-		# proxy. The form makes a POST request to their servers to send the actual
-		# email. Visitors can send up to a 1000 emails each month for free.
-	    #
-	    # What you need to do for the setup?
-	    #
-	    # - set your email address under 'email' below
-	    # - upload the generated site to your server
-	    # - send a dummy email yourself to confirm your account
-	    # - click the confirm link in the email from www.formspree.io
-	    # - you're done. Happy mailing!
-		email = "hello@example.com"
+		phone = "503-367-8101"
+		email = "tyler.smith@students.svu.edu"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
