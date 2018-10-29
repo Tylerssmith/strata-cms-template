@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "<Tyler> S <Smith/>"
+title = "Tyler S Smith"
 theme = "hugo-strata-theme"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -46,7 +46,7 @@ paginate = 10
 	[params.about]
 		hide  = false
   		title = "A little about me"
-		content = "I'm a Computer Science student at Southern Virginia University. I'm also a husband, father, and tech enthusiast."
+		content = "I'm a Software Developer and Computer Science student at Southern Virginia University. I'm also a husband, father, and tech enthusiast."
 
 
 	[params.portfolio]
@@ -58,41 +58,41 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "My First recent work."
-			description = "Description of first work."
+			title = "Crunch Society."
+			description = "I'm working as a software developer for Southern Virginia University's IT department, creating enterprise solutions to integrate univerity systems like Canvas and Jenzabar. We are an agile team, and use Azure DevOps for everything from project management, to hosting our repositories, to documentation."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "Second recent Work."
+			title = "Canvassing Jenzabar."
 			description = "Description of second work."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
+			title = "Powers and Perils App."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
+			title = "Articles for The Herald."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
+			title = "Secure Messenger Design."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
+			title = "Test Translation."
 			description = "Lorem ipsum dolor sit amet."
 
 	[params.recentposts]
-		hide  = false
+		hide  = true
 		title = "Recent blog posts"
 
 	[params.contact]
@@ -105,7 +105,7 @@ paginate = 10
 			"United States"
 		]
 		phone = "503-367-8101"
-		email = "tyler.smith@students.svu.edu"
+		email = "tyler.smith@svu.edu"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
