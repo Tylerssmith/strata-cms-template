@@ -59,7 +59,7 @@ paginate = 10
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
 			title = "Crunch Society."
-			description = "I'm working as a software developer for Southern Virginia University's IT department, creating enterprise solutions to integrate univerity systems like Canvas and Jenzabar. We are an agile team, and use Azure DevOps for everything from project management, to hosting our repositories, to documentation."
+			description = "I work as a software developer for Southern Virginia University's IT department, creating enterprise solutions to integrate univerity systems. We are an agile team, and use Azure DevOps for everything from project management, to hosting our repositories, to documentation."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
