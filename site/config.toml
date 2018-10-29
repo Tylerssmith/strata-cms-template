@@ -83,13 +83,13 @@ paginate = 10
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
 			title = "Secure Messenger Design."
-			description = "Lorem ipsum dolor sit amet."
+			description = "Designed, at a high level, a messenging system for a security-minded company."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
 			title = "Test Translation."
-			description = "Lorem ipsum dolor sit amet."
+			description = "Translated Math tests from English to Spanish."
 
 	[params.recentposts]
 		hide  = true
