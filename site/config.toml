@@ -65,19 +65,19 @@ paginate = 10
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
 			title = "Canvassing Jenzabar."
-			description = "Description of second work."
+			description = "Creating an enterprise program that integrates the Canvas learning management system, with Jenzabar, the student information system."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
 			title = "Powers and Perils App."
-			description = "Lorem ipsum dolor sit amet."
+			description = "An app for the RPG game of the same name."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
 			title = "Articles for The Herald."
-			description = "Lorem ipsum dolor sit amet."
+			description = "I write for The Herald, Southern Virginia University's newspaper."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
