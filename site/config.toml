@@ -92,7 +92,7 @@ paginate = 10
 			description = "Translated Math tests from English to Spanish."
 
 	[params.recentposts]
-		hide  = true
+		hide  = false
 		title = "Recent blog posts"
 
 	[params.contact]
