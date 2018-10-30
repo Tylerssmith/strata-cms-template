@@ -34,6 +34,7 @@ C#
 Java  
 Swift  
 Python  
+Markdown  
 C++  
 HTML/CSS/JS
 
@@ -42,7 +43,7 @@ Agile/Scrum
 API Development  
 Azure DevOps
 
-Visual Studio
+Visual Studio  
 Xcode
 
 ## Education
