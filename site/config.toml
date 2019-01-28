@@ -77,7 +77,7 @@ paginate = 10
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
 			title = "Articles for The Herald."
-			description = "I write for The Herald, Southern Virginia University's newspaper."
+			description = "I wrote for The Herald, Southern Virginia University's newspaper."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
@@ -89,7 +89,7 @@ paginate = 10
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
 			title = "Test Translation."
-			description = "Translated Math tests from English to Spanish."
+			description = "Translated math tests from English to Spanish for a university professor.."
 
 	[params.recentposts]
 		hide  = false
@@ -105,7 +105,7 @@ paginate = 10
 			"United States"
 		]
 		phone = "503-367-8101"
-		email = "tyler.smith@svu.edu"
+		email = "tsmith.drive@gmail.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
